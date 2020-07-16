@@ -154,9 +154,9 @@
 /* Google map */
 
 
-You can just do it like this:
+/* You can just do it like this: */
 
-#content {
+# content{
     position: relative;
     /* height: 20px; */
     top: 0px;
