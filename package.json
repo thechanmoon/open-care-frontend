@@ -21,6 +21,11 @@
     "semantic-ui-react": "^0.88.2",
     "sweetalert": "^2.1.2"
   },
+
+  "engines": {
+    "node": "14.0.0",
+    "npm": "6.14.4"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
