@@ -22,10 +22,10 @@
     "sweetalert": "^2.1.2"
   },
 
-  "engines": {
-    "node": "14.0.0",
-    "npm": "1.2.x"
-  },
+  // "engines": {
+  //   "node": "14.0.0",
+  //   "npm": "1.2.x"
+  // },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
