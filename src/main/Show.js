@@ -183,7 +183,7 @@ return(
 
     
     <br/>
-    {this.props.currentBusiness? <NavLink to={`/Review/${this.props.currentBusiness.name}/${this.props.currentBusiness.id}`} exact>   <button className="buttonMain" href= "http://localhost:3001/Show"> Write Review </button> </NavLink> : null }
+    {this.props.currentBusiness? <NavLink to={`/Review/${this.props.currentBusiness.name}/${this.props.currentBusiness.id}`} exact>   <button className="buttonMain" href= "https://open-care-frontend-snc.herokuapp.com/Show"> Write Review </button> </NavLink> : null }
     {/* <button onClick={this.handleFollow()} > Follow </button> */}
    
     {/* {this.props.currentBusiness.website? <NavLink to={`/Review/${this.props.currentBusiness.name}/${this.props.currentBusiness.id}`} exact>   <button className="buttonMain2" href= "http://localhost:3001/Show"> Write Review </button> </NavLink> : null } */}
